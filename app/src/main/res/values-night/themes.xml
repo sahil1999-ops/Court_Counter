@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CourtCounter" parent="Theme.AppCompat.Light">
+        <!-- Primary color of app (Set background color of app bar)        -->
+        <item name="colorPrimary">#FF9800</item>
+        <!--  background color of the button in the app      -->
+        <item name="colorButtonNormal">#FF9800</item>
+
+    </style>
+
+</resources>
